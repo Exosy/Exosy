@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Exosy</h1>
+<h3 align="center">Ethical Hacking • Cybersecurity • Web Security</h3>
 
-<!--
-**Exosy/Exosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Breaking things to understand how to secure them.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔐 Interested in **Ethical Hacking & Cybersecurity**
+- 🌐 Learning **Web Application Security**
+- 🧪 Building cybersecurity labs and experimenting with security tools
+- 🚩 Practicing with **CTFs**
+- 🐧 Exploring **Linux & Network Security**
+- 📚 Improving my **Penetration Testing** skills
+
+---
+
+### 🛠️ Tools & Technologies
+
+`Linux` • `Kali Linux` • `Python` • `Bash`
+
+`Nmap` • `Burp Suite` • `Wireshark`
+
+---
+
+### 🎯 Current Focus
+
+```text
+[+] Web Application Security
+[+] Penetration Testing
+[+] Vulnerability Research
+[+] Network Security
+[+] CTF Challenges
